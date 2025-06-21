@@ -6,20 +6,24 @@
 
 ## 🌐 Live Demo
 
-🚀 **Live Preview**: [https://your-live-site.netlify.app](https://your-live-site.netlify.app)
+🚀 **Deployed on Vercel**:
+🚀 **Live Preview**: (https://fashion-store-blush-theta.vercel.app/)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Homepage  
-![Homepage](https://your-image-link/homepage.png)
+![Homepage](![localhost_5173_](https://github.com/user-attachments/assets/f34ee394-8d96-40b4-9f8b-9275d52e7e5b)
+)
 
 ### 🛍️ Product Cards  
-![Product Cards](https://your-image-link/cards.png)
+![Product Cards](![localhost_5173_dashboard](https://github.com/user-attachments/assets/fcbf1ec3-8288-4609-b66c-0f265a7a68c0)
+)
 
 ### 🛒 Cart Page  
-![Cart Page](https://your-image-link/cart.png)
+![Cart Page](![localhost_5173_dashboard (1)](https://github.com/user-attachments/assets/24b66fc7-f1a9-4757-8b86-3b1dc1b340d9)
+)
 
 ---
 
